@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(132, 0, 255);
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+.title {
+    margin-top: 50px;
+}
+
+.row{
+    display: inline-block;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 25px;
+    margin: 30px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.blink {
+    opacity: 0.5;
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
